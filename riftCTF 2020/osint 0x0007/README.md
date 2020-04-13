@@ -1,0 +1,16 @@
+# osint 0x0007
+> Our surveillance team has discovered another camera that has been left open to the world!
+
+> The microphone on this camera recently picked up the sound of gunfire from what we suspect to be the street outside. The team needs to confirm this.
+
+> Could you please find the NAME OF THE ROAD that runs outside the building this camera is in.
+
+> LIVE CAMERA FEED: http://50.100.241.155:8081
+
+> If you're having trouble viewing it, we've attached a screenshot of the camera in action.
+
+> Note- flag format eg- riftCTF{the_Rd}
+
+Googling birchmount lofts will land you at birchmount apartments. Outside is Birchmount Rd, which is the answer.
+
+> riftCTF{Birchmount_Rd}
